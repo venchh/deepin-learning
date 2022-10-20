@@ -8,8 +8,4 @@ deepin-learning project record somethings for deepin OS.
 - [jenkins](jenkins/README.md)
 - [pbuilder](pbuilder/README.md)
 - [reprepro](reprepro/README.md)
-- [Maintainers](#Maintainers)
-
-## Maintainers
-
-caihouhui@uniontech.com
+- [checksec](checksec/README.md)
